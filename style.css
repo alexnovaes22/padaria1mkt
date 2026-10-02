@@ -109,6 +109,10 @@ blockquote {
     color: #FFFFFF;
 }
 
+/* Preenchimento das células — só na página do cardápio */
+.pagina-cardapio .tabela-cardapio td {
+    background-color: #FFFFFF;   /* troque pela cor que quiser */
+}
 /* ===== Rodapé ===== */
 .rodape {
     background-color: #3B2A1E;
